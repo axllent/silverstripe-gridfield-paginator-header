@@ -1,0 +1,24 @@
+.cms table.ss-gridfield-table thead tr.title {
+	/*display: none;*/
+	/*background: #98aab6;*/
+	/*background-image: linear-gradient(#b0bec7, #98aab6);*/
+	/*background-image: linear-gradient(#b0bec7, #98aab6);*/
+}
+.cms table.ss-gridfield-table tr.title th {
+	background: #B0BEC7;
+	border-bottom: none;
+}
+
+.cms table.ss-gridfield-table thead tr td.bottom-all {
+	-webkit-border-bottom-left-radius: 0;
+	border-bottom-left-radius: 0;
+	-moz-border-radius-bottomright: 0;
+	-webkit-border-bottom-right-radius: 0;
+	border-bottom-right-radius: 0;
+
+	/*-webkit-border-top-left-radius: 5px;
+	border-top-left-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-webkit-border-top-right-radius: 5px;
+	border-top-right-radius: 5px;*/
+}
