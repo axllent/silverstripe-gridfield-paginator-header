@@ -1,20 +1,24 @@
 {
-	"name": "axllent/silverstripe-gridfield-paginator-header",
-	"description": "An extension for SilverStripe 3 to add gridfield pagination to the top",
-	"type": "silverstripe-module",
-	"homepage": "https://github.com/axllent/silverstripe-gridfield-paginator-header",
-	"keywords": ["silverstripe", "gridfield", "tweaks"],
-	"license": "MIT",
-	"authors": [
-		{
-			"name": "Ralph Slooten",
-			"homepage": "http://www.axllent.org/"
-		}
-	],
-	"support": {
-		"issues": "https://github.com/axllent/silverstripe-gridfield-paginator-header/issues"
-	},
-	"require": {
-		"silverstripe/cms": "3.*"
-	}
+    "name": "axllent/silverstripe-gridfield-paginator-header",
+    "description": "An extension for SilverStripe 3 to add gridfield pagination to the top",
+    "type": "silverstripe-module",
+    "homepage": "https://github.com/axllent/silverstripe-gridfield-paginator-header",
+    "keywords": [
+        "silverstripe",
+        "gridfield",
+        "tweaks"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ralph Slooten",
+            "homepage": "http://www.axllent.org/"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/axllent/silverstripe-gridfield-paginator-header/issues"
+    },
+    "require": {
+        "silverstripe/cms": "^3.7"
+    }
 }
